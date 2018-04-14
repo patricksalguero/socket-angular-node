@@ -1,4 +1,4 @@
-# SockerAngular
+# SocketAngular
 
 Proyecto de ejemplo con Socket IO para conección Cliente y Servidor con Angular 5+ y Node JS
 
